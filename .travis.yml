@@ -1,1 +1,2 @@
 language: ruby
+script: CODECLIMATE_REPO_TOKEN=<YOUR_REPO_TOKEN> bundle exec rake

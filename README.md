@@ -56,6 +56,14 @@ and add any environment variables as necessary (figaro loads them for you).
 7. Run ```rake db:create``` and ```rake db:migrate```.
 8. Run ```rspec``` to make sure that rspec works.
 
+### Optional but nice
+1. Install the [LiveReload Chrome extension](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en) - when you start guard, it'll reload
+your browser when a matching file is changed!
+2. Set up [Code Climate](https://codeclimate.com/) for your project.
+3. Set up [Travis](https://travis-ci.org/) for your project - integrate test
+coverage with Code Climate for a double win! You'll have to enter in your Code
+Climate token in ```.travis.yml```
+
 ## Developing
 Have one terminal tab open for each of:
 
