@@ -1,6 +1,9 @@
 Rails Base App
 ====
 
+__Deprecated. Please use http://github.com/calblueprint/bluebase instead__
+
+
 A starter app for development using Ruby on Rails. It comes with gems that are
 widely used across most apps and many handy development and test gems.
 
